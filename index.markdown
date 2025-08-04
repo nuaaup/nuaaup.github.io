@@ -5,8 +5,6 @@
 layout: page
 ---
 
-# AAUP -- Northwestern
-
 [Northwestern AAUP mission statement]
 
 We are the Northwestern chapter of the American Association of University Professors.
