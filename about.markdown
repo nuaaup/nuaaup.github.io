@@ -6,18 +6,19 @@ permalink: /about/
 
 ## Executive committee
 
-NUAAUP is led by our executive committee, elected to a 1-year term each spring.
-The current executive committee (2025-2026) consists of:
+NU AAUP is led by our executive committee, elected to a 2-year term in the spring of even-numbered years, in accordance with our constitution (TODO).
+
+The current executive committee (2024-2026) consists of:
 
 * [Jackie Stevens](https://jacquelinestevens.org/), President
+
+* [Sam Weber](https://german.northwestern.edu/people/faculty/continuing/weber-samuel.html), Vice President
 
 * [Jorge Coronado](https://spanish-portuguese.northwestern.edu/people/faculty/teaching-research-faculty/coronado-jorge.html), Treasurer
 
 * [Lauren Stokes](https://laurenstokes.wordpress.com/), Secretary
 
-* [Sam Weber](https://german.northwestern.edu/people/faculty/continuing/weber-samuel.html), Member-at-Large
-
-* [Linda Gates](https://lindagates.com/), Member-at-Large
+* [Joe Feinglass](https://www.feinberg.northwestern.edu/faculty-profiles/az/profile.html?xid=11264), Member-at-Large
 
 ### Site operator
 
