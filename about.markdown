@@ -6,7 +6,7 @@ permalink: /about/
 
 ## Executive committee
 
-NU AAUP is led by our executive committee, elected to a 2-year term in the spring of even-numbered years. <!--, in accordance with our constitution (TODO).-->
+NU AAUP is led by our executive committee, elected to a 2-year term in the spring of even-numbered years, in accordance with our [bylaws](/assets/nu-aaup-bylaws.pdf).
 
 The current executive committee (2024-2026) consists of:
 

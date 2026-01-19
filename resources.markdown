@@ -69,7 +69,11 @@ Committee on Education and the Workforce](/assets/congress/LettertoFoxxCommittee
 
 [Bond Offering Circular, 2020](/assets/records/ILNorthwestern01a-FIN2025.pdf). Substantial financial information on the functioning of the university as of 2020.
 
-# Resources from national-level AAUP
+## Northwestern AAUP Documents
+
+[Northwestern AAUP documents](/assets/nu-aaup-bylaws.pdf), enacted May 2018.
+
+## Resources from National-Level AAUP
 
 [Local 6741 resources](https://local6741.org/resources/)
 

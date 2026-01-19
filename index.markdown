@@ -19,8 +19,6 @@ and the [American Federation of Teachers](https://www.aft.org/).
 
 Founded in 1915, the [American Association of University Professors](https://www.aaup.org/) (AAUP) has advocated for academic freedom and shared governance that prioritizes the voice of faculty for over a century. It defines equitable policies of academic employment and advances professional ethics and teaching standards that foster a just society. AAUP centers meaningful faculty and staff participation in decision-making processes and aims to build worker solidarity across campuses in the United States. It represents academic employees of universities and colleges in labor disputes, contributes research and policy on crucial issues in higher education, and fights for the economic security of the profession through direct advocacy and the creation of chapters. 
 
-<!-- (TODO: Link to constitution) -->
-
 ### Getting Involved
 
 Northwestern faculty, and anyone at NU primarily conducting research and/or teaching,
