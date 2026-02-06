@@ -30,7 +30,7 @@ We will add you to our members' email list.
 
 We're in the process of creating a public-facing email list.
 If you want to hear about what NU AAUP is doing,
-email [nu-aaup@nu-aaup@proton.me](mailto:nu-aaup@proton.me)
+email [nu-aaup@proton.me](mailto:nu-aaup@proton.me)
 and let us know you want to join our public email list.
 You can also view our posts and/or follow us on [Bluesky](https://bsky.app/profile/nu-aaup.bsky.social).
 
