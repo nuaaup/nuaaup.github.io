@@ -58,7 +58,7 @@ Transmitted to Northwestern leadership as per [this email](/assets/academic-free
 
 ## Congressional Hearings
 
-[Interview of NU President Mike Schill by the House Commitee on Education and Workforce](/assets/congress/edworkforce_final_transcript_aug_5_2025_redacted.pdf), August 5th, 2025. Redacted.
+[Interview of NU President Mike Schill by the House Committee on Education and Workforce](/assets/congress/edworkforce_final_transcript_aug_5_2025_redacted.pdf), August 5th, 2025. Redacted.
 
 [Letter to Representative Tim Walberg, Ranking Member Bobby Scott, and Members of the
 Committee on Education and the Workforce from Jacqueline Stevens, President, American
@@ -69,11 +69,11 @@ Committee on Education and the Workforce](/assets/congress/LettertoFoxxCommittee
 
 ## Deering Meadow Encampment & Demonstration Policy
 
-[Letter to Northwestern University officials from the Executive Committee of the Northwesterni chapter of the American Association of University Professors (NU-AAUP)](/assets/academic-freedom/NU-AAUP_policy-response_9-30-2024.pdf), September 30th, 2024, on the topic of the Demonstration Polcy announced on September 5th, 2024.
+[Letter to Northwestern University officials from the Executive Committee of the Northwestern chapter of the American Association of University Professors (NU-AAUP)](/assets/academic-freedom/NU-AAUP_policy-response_9-30-2024.pdf), September 30th, 2024, on the topic of the Demonstration Policy announced on September 5th, 2024.
 
 [Executive Committee of NU-AAUP urges Board of Trustees’ restraint](https://dailynorthwestern.com/2024/05/08/uncategorized/lte-executive-committee-of-nu-aaup-urges-board-of-trustees-restraint/), May 8th, 2024. Letter to the Editor, Daily Northwestern. Against the removal of President Schill after the Deering Meadow agreement.
 
-[NU-AAUP Opposes NU Interim Speech Restrictions](/assets/academic-freedom/NU-AAUP-statement-on-Schill-s-repressive-policies.pdf), April 27th, 2024, on President Schill's policy ammendment, "Interim Policy for Student Demonstrations and Other Expressive Activities on the Evanston Campus". See also the corresponding Daily Northwestern article: [NU-AAUP condemns University President Michael Schill’s response to Deering Meadow encampment](https://dailynorthwestern.com/2024/04/27/campus/nu-aaup-condemns-university-president-michael-schills-response-to-deering-meadow-encampment/). See also the Daily Northwestern article on the demonstration policy change: [Interim addendum about protests comes as Schill’s tenure stresses free speech](https://dailynorthwestern.com/2024/04/29/campus/new-interim-addendum-about-protests-comes-as-schills-tenure-stresses-free-speech/)
+[NU-AAUP Opposes NU Interim Speech Restrictions](/assets/academic-freedom/NU-AAUP-statement-on-Schill-s-repressive-policies.pdf), April 27th, 2024, on President Schill's policy amendment, "Interim Policy for Student Demonstrations and Other Expressive Activities on the Evanston Campus". See also the corresponding Daily Northwestern article: [NU-AAUP condemns University President Michael Schill’s response to Deering Meadow encampment](https://dailynorthwestern.com/2024/04/27/campus/nu-aaup-condemns-university-president-michael-schills-response-to-deering-meadow-encampment/). See also the Daily Northwestern article on the demonstration policy change: [Interim addendum about protests comes as Schill’s tenure stresses free speech](https://dailynorthwestern.com/2024/04/29/campus/new-interim-addendum-about-protests-comes-as-schills-tenure-stresses-free-speech/)
 
 [Palestinian-American activist Rami Nashashibi shares message of unity to Deering Meadow encampment](https://dailynorthwestern.com/2024/04/28/campus/palestinian-american-activist-rami-nashashibi-shares-message-of-unity-to-deering-meadow-encampment/), April 28th, 2024. Daily Northwestern article.
 
