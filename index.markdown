@@ -21,6 +21,8 @@ Founded in 1915, the [American Association of University Professors](https://www
 
 ### Getting Involved
 
+NU AAUP has proposed [a resolution to ammend to the faculty handbook](/assets/faculty-governance/NU-AAUPResolution-Spring2026.pdf), to be discussed and voted on at the Spring 2026 Faculty Assembly. Read the resolution, come to the assembly in person or online, help make quorum, and vote on the change.
+
 Northwestern faculty, and anyone at NU primarily conducting research and/or teaching,
 can join NU AAUP by joining the [national AAUP organization](https://www.aaup.org/join),
 then contacting the chapter at [nu-aaup@proton.me](mailto:nu-aaup@proton.me).

@@ -28,6 +28,8 @@ permalink: /resources/
 
 ## Faculty Governance
 
+[Spring 2026 Faculty Assembly Resolution](/assets/faculty-governance/NU-AAUPResolution-Spring2026.pdf), to be discussed and voted on at the spring 2026 faculty assembly. Proposing an ammendement to the Faculty Handbook, on the subject of faculty governance.
+
 [What happened at the April 21 faculty assembly and why it matters](https://dailynorthwestern.com/2025/05/30/opinion/nu-aaup-dispatches-what-happened-at-the-april-21-faculty-assembly-and-why-it-matters/), NU AAUP Dispatch, May 30th, 2025, by NU AAUP President Jackie Stevens.
 
 [Northwestern Faculty Vote to Protect Students, Safeguard Academic Freedom from Unlawful Trump Edicts](/assets/faculty-governance/Northwestern-Faculty-Vote-to-Protect-Students-Safeguard-Academic-Freedom-from-Unlawful-Trump-Edicts.pdf), April 23rd, 2025. Press release by NU-AAUP on Faculty Assembly Resolution.
